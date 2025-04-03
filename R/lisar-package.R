@@ -2,10 +2,7 @@
 "_PACKAGE"
 
 ## usethis namespace: start
-#' Internal vctrs methods
-#'
-#' @import vctrs
-#' @keywords internal
-#' @name lisar-vctrs
+#' @import rlang
+#' @importFrom R6 R6Class
 ## usethis namespace: end
 NULL
